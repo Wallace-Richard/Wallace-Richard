@@ -1,8 +1,7 @@
 # 💫 About Me:
-👨‍💻 Atualmente estou focado em evoluir minhas habilidades em desenvolvimento Java e backend  <br>📚 Estou aprendendo Java, Spring Boot, SQL.<br>🤝 Busco colaborar em projetos backend e projetos open source  <br>🛠️ Estou procurando ajuda para entender melhor arquitetura backend e boas práticas  <br>💬 Me pergunte sobre Java, Git, GitHub e lógica de programação  <br>⚡ Curiosidade: gosto de transformar ideias em código e resolver problemas com programação
+👨‍💻 Atualmente estou focado em evoluir minhas habilidades em desenvolvimento Java e backend  <br>📚 Estou aprendendo Java, Spring Boot, SQL.<br>🤝 Busco colaborar em projetos backend e projetos open source  <br>🛠️ Estou procurando ajuda para entender melhor arquitetura backend e boas práticas  
 
-
-## 🌐 Socials:
+🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/wallace-richard) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Wallace ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wallace.12.marinho@gmail.com) 
 
 # 💻 Tech Stack:
